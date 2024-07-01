@@ -194,11 +194,11 @@ body {
     width: 100%;
     background-color: #f8f9fa;
     color: #fb6f92;
-    text-align: center;
+    text-align: top;
     padding: 10px 0;
     font-size: 14px;
     display: flex;
-    justify-content: center;
+    justify-content: top;
     align-items: center;
 }
 
